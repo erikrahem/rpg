@@ -1,1 +1,1 @@
-# frankia-rpg
+# Frankia RPG

@@ -1,0 +1,17 @@
+--Melee--
+Sword
+Axe
+Spear (melee)
+Dagger
+Shield
+Boxing
+
+--Range--
+Bow
+Crossbow
+Spear (range)
+
+
+--Magic--
+Destruction
+Restoration

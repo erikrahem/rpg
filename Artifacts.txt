@@ -1,0 +1,3 @@
+Bloodthirster (sword)
+Headchopper (axe)
+Soulcrusher (hammer)

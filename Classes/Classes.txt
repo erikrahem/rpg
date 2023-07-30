@@ -1,0 +1,23 @@
+--Knight (combat)--
+Templar (melee)
+Paladin (balance)
+Archer (range)
+
+
+--Mage--
+Druid (biology)
+Sorcerer (physics)
+
+
+
+
+--Druid--
+Cleric (light)
+Shaman (medium)
+Necromancer (dark)
+
+
+--Sorcerer--
+Wizard (heaven/ice)
+Magician (medium)
+Warlock (hell/fire)
