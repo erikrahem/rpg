@@ -15,3 +15,14 @@ Spear (range)
 --Magic--
 Destruction
 Restoration
+
+
+
+Necromancer
+  Undeath
+  Vampirism
+
+Warlock
+  Demonology
+    Demonism (summoning)
+    Demonhood (possession)
